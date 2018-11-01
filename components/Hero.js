@@ -1,24 +1,3 @@
-const heroTitle = {
-  fontFamily: 'La Belle Aurore, sans-serif',
-  fontSize: 48,
-  fontWeight: 100,
-  marginBottom: 0
-}
-
-const heroSubtitle = {
-  fontFamily: 'Merriweather Sans, sans-serif',
-  fontSize: 18,
-  fontWeight: 100,
-  marginTop: 0,
-  lineHeight: 1.4,
-}
-
-const heroContainer = {
-  marginBottom: 40,
-  backgroundColor: '#044',
-  color: 'white'
-}
-
 const languageSelector = {
   marginTop: 30,
   marginBottom: 0,
@@ -29,11 +8,11 @@ const languageSelectorLink = {
   color: 'black'
 }
 
-const Hero = () => (
+const Hero = (props) => (
   <div className="container-fluid">
     <h1>Maria Martucci</h1>
-    <h4 style={heroSubtitle}>A story of love and trust in God<br />by Maria Anunziata Stallo</h4>
-    <p style={languageSelector}><a style={languageSelectorLink} href="">English</a> | <a style={languageSelectorLink} href="">Italiano</a></p>
+    <h4>{props.subtitle}<br />{props.author}</h4>
+    <p style={languageSelector}><a style={languageSelectorLink} href="/">English</a> | <a style={languageSelectorLink} href="/it">Italiano</a></p>
     <style jsx>{`
       div {
         text-align: right;
@@ -49,6 +28,13 @@ const Hero = () => (
         font-size: 48px;
         font-weight: 100px;
         margin-bottom: 0px
+      }
+      h4 {
+        font-family: 'Merriweather Sans', sans-serif;
+        font-size: 18px;
+        font-weight: 100;
+        margin-top: 0px;
+        line-height: 1.5;
       }
       @media (min-width: 768px) {
         div {
