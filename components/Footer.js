@@ -5,7 +5,7 @@ const linkStyle = {
 }
 
 const layoutStyle = {
-  marginTop: 30, marginBottom: 70, paddingRight: 20
+  marginTop: 30, paddingRight: 20
 }
 
 const Footer = (props) => (
@@ -13,6 +13,9 @@ const Footer = (props) => (
         <Link href={props.next}>
           <a style={linkStyle}>{props.nextTitle} &#8594;</a>
         </Link>
+        <style jsx>{`
+          
+        `}</style>
     </div>
 )
 

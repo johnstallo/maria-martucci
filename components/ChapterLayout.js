@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Layout from '../components/MyLayout'
 import ContentLayout from '../components/ContentLayout'
+import EndSpace from './EndSpace';
 
 const ChapterLayout = (props) => (
   <div>
@@ -13,7 +14,7 @@ const ChapterLayout = (props) => (
       <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|La+Belle+Aurore" rel="stylesheet"></link>
     </Head>
 
-    <Header />  
+    <Header/>  
 
     <Layout>
       <ContentLayout>
@@ -21,9 +22,9 @@ const ChapterLayout = (props) => (
         {props.children}
       </ContentLayout>
       <Footer next={props.next} nextTitle={props.nextTitle}/>
-      <br/><br/><br/>
     </Layout>
-
+    
+    <EndSpace/>
   </div>
 )
 
