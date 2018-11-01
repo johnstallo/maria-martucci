@@ -15,24 +15,24 @@ const Index = () => (
     </Head>
 
 
-    <Hero subtitle="Una storia di amore e fiducia in Dio" author="- Maria Anunziata Stallo"/>
+    <Hero subtitle="Una storia di amore e fiducia in Dio" author="- Maria Anunziata Stallo" />
     <Layout>
       <ContentLayout>
         <ChapterPreview title="Premessa" chapterRef="it/premessa" />
-        <ChapterPreview title="1. Introduzione" chapterRef="1-introduzione" />
-        <ChapterPreview title="2. La conversione di mia madre" chapterRef="2-conversione-di-mia-madre" />
-        <ChapterPreview title="3. La dura prova" chapterRef="3-dura-prova" />
-        <ChapterPreview title="4. La gallina" chapterRef="4-gallina" />
-        <ChapterPreview title="5. La guarigione di Gino" chapterRef="5-guarigione-di-gino" />
-        <ChapterPreview title="6. La chiesa di Massafra" chapterRef="6-chiesa-di-massafra" />
-        <ChapterPreview title="7. La malattia di papà" chapterRef="7-malattia-di-papa" />
-        <ChapterPreview title="8. Il Tabacco" chapterRef="8-tabacco" />
-        <ChapterPreview title="9. La tubercolosi" chapterRef="9-tubercolosi" />
-        <ChapterPreview title="10. La nefrite" chapterRef="10-nefrite" />
-        <ChapterPreview title="11. L’incidente alla mano" chapterRef="11-incidente-alla-mano" />
-        <ChapterPreview title="12. L’ulcera" chapterRef="12-ulcera" />
-        <ChapterPreview title="13. La conversione di una vicina" chapterRef="13-conversione-di-una-vicina" />
-        <ChapterPreview title="14. Conclusione" chapterRef="14-conclusione" />
+        <ChapterPreview title="1. Introduzione" chapterRef="it/1-introduzione" />
+        <ChapterPreview title="2. La conversione di mia madre" chapterRef="it/2-conversione-di-mia-madre" />
+        <ChapterPreview title="3. La dura prova" chapterRef="it/3-dura-prova" />
+        <ChapterPreview title="4. La gallina" chapterRef="it/4-gallina" />
+        <ChapterPreview title="5. La guarigione di Gino" chapterRef="it/5-guarigione-di-gino" />
+        <ChapterPreview title="6. La chiesa di Massafra" chapterRef="it/6-chiesa-di-massafra" />
+        <ChapterPreview title="7. La malattia di papà" chapterRef="it/7-malattia-di-papa" />
+        <ChapterPreview title="8. Il Tabacco" chapterRef="it/8-tabacco" />
+        <ChapterPreview title="9. La tubercolosi" chapterRef="it/9-tubercolosi" />
+        <ChapterPreview title="10. La nefrite" chapterRef="it/10-nefrite" />
+        <ChapterPreview title="11. L’incidente alla mano" chapterRef="it/11-incidente-alla-mano" />
+        <ChapterPreview title="12. L’ulcera" chapterRef="it/12-ulcera" />
+        <ChapterPreview title="13. La conversione di una vicina" chapterRef="it/13-conversione-di-una-vicina" />
+        <ChapterPreview title="14. Conclusione" chapterRef="it/14-conclusione" />
       </ContentLayout>
       <EndSpace />
     </Layout>

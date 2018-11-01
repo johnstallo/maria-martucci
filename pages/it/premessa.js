@@ -4,7 +4,7 @@ export default () => (
   <ChapterLayout
     pageTitle="Maria Martucci - Premessa"
     chapterTitle="Premessa"
-    next="/1-introduzione"
+    next="/it/1-introduzione"
     nextTitle="Introduzione">
 
     <p>Sono nata a Massafra il 20 febbraio del 1940, e poiché era il periodo della guerra sono cresciuta nella povertà.</p>
