@@ -1,22 +1,21 @@
 import Head from 'next/head'
-import Header from '../components/Header'
-import Footer from '../components/Footer'
 import Hero from '../components/Hero'
 import Layout from '../components/MyLayout'
 import ContentLayout from '../components/ContentLayout'
 import ChapterPreview from '../components/ChapterPreview'
+import EndSpace from '../components/EndSpace'
 
 const Index = () => (
   <div>
     <Head>
       <title>Maria Martucci</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"></link>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossOrigin="anonymous"></link>
       <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|La+Belle+Aurore" rel="stylesheet"></link>
     </Head>
 
 
-    <Hero />
+    <Hero subtitle="A story of love and trust in God" author="by Maria Anunziata Stallo"/>
     <Layout>  
       <ContentLayout>
         <ChapterPreview title="Premise" chapterRef="premise" />
@@ -35,7 +34,7 @@ const Index = () => (
         <ChapterPreview title="13. The conversion of a neighbor" chapterRef="13-conversion-of-a-neighbor" />
         <ChapterPreview title="14. Conclusion" chapterRef="14-conclusion" />
       </ContentLayout>
-      <br/><br/><br/><br/>
+      <EndSpace />
     </Layout>
     <style jsx>{`
     `}</style>
