@@ -1,23 +1,10 @@
-import Head from 'next/head'
-import Header from '../components/Header'
-import Footer from '../components/Footer'
-import Layout from '../components/MyLayout'
-import ContentLayout from '../components/ContentLayout'
+import ChapterLayout from '../components/ChapterLayout'
 
 export default () => (
-  <div>
-    <Head>
-      <title>Maria Martucci - My mother's conversion</title>
-      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"></link>
-      <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|La+Belle+Aurore" rel="stylesheet"></link>
-    </Head>
-    
-    <Header />  
-    
-    <Layout>
-      <ContentLayout>
-      <h3>My mother's conversion</h3>
+  <ChapterLayout
+    pageTitle="Maria Martucci - Premise"
+    chapterTitle="2. My mother's conversion"
+    next="/2-my-mothers-conversion" nextTitle="My mother's conversion">
       <p>My mother would sit outside the front door when she was done with her housework or when it was hot. One day, while sitting there, she saw a young man stop by next door who then called out to the lady who lived there: “Peace!” Now, in her dialect, the word peace (pace) sounds similar to the word crazy (paccj). My mother did not clearly understand what the young man had meant. Puzzled, she turned to her mother-in-law who was sitting beside her and asked: “Mama, did you hear that young man? Did he say peace or crazy?”</p>
       <p>Her mother-in-law replied: “My daughter, you must have nothing to do with those people because they are excommunicated, and they do not love the saints!”</p>
       <p>However, my mother couldn’t get that word she had heard the young man say out of her head, be it peace or crazy. Intrigued, and secretly from her mother-in-law, she went to her neighbor for an explanation: “Excuse me, ma’am, that young man who greeted you the other day, did he say peace or crazy?”</p>
@@ -40,9 +27,5 @@ export default () => (
       <p>So, we all prayed together, and soon after we heard a knock at the door. It was a neighbor, who said to my mother: “Maria, it was my daughter’s wedding yesterday, and many guests did not come. Many trays of oven-baked pasta, potatoes, and meat were left over, and I thought perhaps you wouldn't be offended if I brought some to you, since you have many children. If you like I will bring everything to you.”</p>
       <p>My mother not only accepted all the good that God had provided, she also told the woman of all that had happened and how the Lord had entered her heart, and then she thanked her.</p>
       <p>We really saw a miracle of God!</p>
-      </ContentLayout>
-
-      <Footer next="/"/>
-    </Layout>
-  </div>
+  </ChapterLayout>
 )

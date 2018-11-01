@@ -55,7 +55,7 @@ const Hero = () => (
           text-align: left;
           color: black;
           background-color: #feb236;
-          padding-left: 20px;
+          padding-left: 40px;
           padding-top: 80px;
           padding-bottom: 50px;
         }

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 const previewContainerStyle = {
-  fontFamily: 'Merriweather Sans, sans-serif',
+  fontFamily: 'Merriweather, serif',
   marginBottom: 20,
   backgroundColor: 'white',
   color: 'black',

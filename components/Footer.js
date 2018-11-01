@@ -5,11 +5,11 @@ const linkStyle = {
 }
 
 const layoutStyle = {
-  marginTop: 30, marginBottom: 70
+  marginTop: 30, marginBottom: 70, paddingRight: 20
 }
 
 const Footer = (props) => (
-    <div class="text-right" style={layoutStyle}>
+    <div className="text-right" style={layoutStyle}>
         <Link href={props.next}>
           <a style={linkStyle}>{props.nextTitle} &#8594;</a>
         </Link>
