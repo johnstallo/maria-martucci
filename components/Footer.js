@@ -15,7 +15,7 @@ const Footer = (props) => (
             background-color: #feb236;
             padding: 8px;
             color: black;
-            font-size: larger;
+            // font-size: larger;
             font-family: 'Merriweather Sans', sans-serif;
             // box-shadow: 3px 3px #ddd;
           }
