@@ -4,6 +4,7 @@ import Layout from '../components/MyLayout'
 import ContentLayout from '../components/ContentLayout'
 import ChapterPreview from '../components/ChapterPreview'
 import EndSpace from '../components/EndSpace'
+import Start from '../components/Start'
 
 const Index = () => (
   <div>
@@ -15,8 +16,9 @@ const Index = () => (
     </Head>
 
 
-    <Hero subtitle="A story of love and trust in God" author="by Maria Anunziata Stallo"/>
-    <Layout>  
+    <Hero subtitle="A story of love and trust in God" author="by Maria Anunziata Stallo" />
+    
+    <Layout>
       <ContentLayout>
         <ChapterPreview title="Premise" chapterRef="premise" />
         <ChapterPreview title="1. Introduction" chapterRef="1" />
@@ -34,6 +36,7 @@ const Index = () => (
         <ChapterPreview title="13. The conversion of a neighbor" chapterRef="13" />
         <ChapterPreview title="14. Conclusion" chapterRef="14" />
       </ContentLayout>
+      <Start buttonUrl="/premise" buttonText="Start Reading" /> <br/>
       <EndSpace />
     </Layout>
     <style jsx>{`

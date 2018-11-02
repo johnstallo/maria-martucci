@@ -4,6 +4,7 @@ import Layout from '../../components/MyLayout'
 import ContentLayout from '../../components/ContentLayout'
 import ChapterPreview from '../../components/ChapterPreview'
 import EndSpace from '../../components/EndSpace'
+import Start from '../../components/Start'
 
 const Index = () => (
   <div>
@@ -34,6 +35,7 @@ const Index = () => (
         <ChapterPreview title="13. La conversione di una vicina" chapterRef="it/13" />
         <ChapterPreview title="14. Conclusione" chapterRef="it/14" />
       </ContentLayout>
+      <Start buttonUrl="it/premessa" buttonText="Iniziare a Leggere" /> <br/>
       <EndSpace />
     </Layout>
     <style jsx>{`
