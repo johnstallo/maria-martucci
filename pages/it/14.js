@@ -4,7 +4,7 @@ export default () => (
 <ChapterLayout
 pageTitle="Maria Martucci - Conclusione"
 chapterTitle="14. Conclusione"
-next=""
+next="/it"
 nextTitle=""
 locale="it">
 
