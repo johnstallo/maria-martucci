@@ -1,14 +1,27 @@
 import React, { Component } from 'react'
 import ActiveLink from '../components/ActiveLink'
+import Link from 'next/link'
+
+function MyLink (props) {
+  const url = props.locale ? "/" + props.locale : "/";
+  return (
+    <Link href={url}>
+      {props.children}
+    </Link>
+  );
+}
 
 export default class Header extends React.Component {
 
   render() {
     return (
       <div>
-        <ActiveLink>
+        {/* <ActiveLink>
           Maria Martucci
-        </ActiveLink>
+        </ActiveLink> */}
+        <MyLink locale={this.props.locale}>
+          <a>Maria Martucci</a>
+        </MyLink>
         <style jsx>{`
           div {
             padding-left: 20px;

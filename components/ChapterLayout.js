@@ -14,7 +14,7 @@ const ChapterLayout = (props) => (
       <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|La+Belle+Aurore" rel="stylesheet"></link>
     </Head>
 
-    <Header/>  
+    <Header locale={props.locale}/>  
 
     <Layout>
       <ContentLayout>

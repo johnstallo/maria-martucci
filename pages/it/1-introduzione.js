@@ -5,7 +5,8 @@ export default () => (
     pageTitle="Maria Martucci - Introduzione"
     chapterTitle="1. Introduzione"
     next="/it/2-conversione-di-mia-madre"
-    nextTitle="La conversione di mia madre">
+    nextTitle="La conversione di mia madre"
+    locale="it">
 
     <p>Maria Martucci era nata a Mottola, un paese in provincia di Taranto, il 16 Settembre 1909. La sua era una famiglia numerosa: la madre faceva la sarta in casa, ed essendo Maria la figlia più grande, i lavori domestici e la cura dei fratelli più piccoli erano affidati a lei, che lavorava con impegno e con gioia.</p>
     <p>Aveva 19 anni quando si fidanzò con mio padre, Cosimo Stallo (nato il 2 novembre 1950 a Massafra), che veniva da una famiglia povera. Mia nonna paterna rimase vedova quando mio padre aveva solo 17 anni; mio nonno fu travolto da un treno mentre si recava a lavoro con il traino, e morì.</p>

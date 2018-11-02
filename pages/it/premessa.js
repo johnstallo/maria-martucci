@@ -4,8 +4,9 @@ export default () => (
   <ChapterLayout
     pageTitle="Maria Martucci - Premessa"
     chapterTitle="Premessa"
-    next="/it/1-introduzione"
-    nextTitle="Introduzione">
+    next="~/it/1-introduzione"
+    nextTitle="Introduzione"
+    locale="it">
 
     <p>Sono nata a Massafra il 20 febbraio del 1940, e poiché era il periodo della guerra sono cresciuta nella povertà.</p>
     <p>In famiglia eravamo sei figli ed essendo mia madre già convertita all'Evangelo, sono cresciuta con sani insegnamenti cristiani. La mia mamma cercava di inculcarci, principalmente con il suo esempio, l’amore e il timore di Dio che ha fatto tanto per l'uomo peccatore.</p>
