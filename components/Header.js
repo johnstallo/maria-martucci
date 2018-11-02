@@ -41,7 +41,7 @@ export default class Header extends React.Component {
           }
           @media (min-width: 768px) {
             div {
-              padding-left: 40px;
+              padding-left: 60px;
             }
           }
         `}</style>

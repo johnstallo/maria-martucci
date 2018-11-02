@@ -9,7 +9,8 @@ const Layout = (props) => (
       }
       @media (min-width: 768px) {
         div {
-          padding-left: 40px;
+          padding-top: 20px;
+          padding-left: 60px;
           padding-right: 40px;
           max-width: 800px;
         }

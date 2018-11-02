@@ -41,7 +41,7 @@ const Hero = (props) => (
           text-align: left;
           color: black;
           background-color: #feb236;
-          padding-left: 40px;
+          padding-left: 60px;
           padding-top: 80px;
           padding-bottom: 50px;
         }
