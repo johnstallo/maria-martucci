@@ -3,10 +3,11 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Layout from '../components/MyLayout'
 import ContentLayout from '../components/ContentLayout'
-import EndSpace from './EndSpace';
+import EndSpace from './EndSpace'
+import Page from './Page'
 
 const ChapterLayout = (props) => (
-  <div>
+  <Page>
     <Head>
       <title>{props.pageTitle}</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
@@ -25,7 +26,7 @@ const ChapterLayout = (props) => (
     </Layout>
     
     <EndSpace/>
-  </div>
+  </Page>
 )
 
 export default ChapterLayout

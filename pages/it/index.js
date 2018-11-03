@@ -5,9 +5,10 @@ import ContentLayout from '../../components/ContentLayout'
 import ChapterPreview from '../../components/ChapterPreview'
 import EndSpace from '../../components/EndSpace'
 import Start from '../../components/Start'
+import Page from '../../components/Page'
 
 const Index = () => (
-  <div>
+  <Page>
     <Head>
       <title>Maria Martucci</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
@@ -40,7 +41,7 @@ const Index = () => (
     </Layout>
     <style jsx>{`
     `}</style>
-  </div>
+  </Page>
 )
 
 export default Index
