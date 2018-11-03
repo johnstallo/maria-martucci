@@ -4,7 +4,7 @@ export default () => (
   <ChapterLayout
     pageTitle="Maria Martucci - Premise"
     chapterTitle="Premise"
-    next="/1-introduction"
+    next="/1"
     nextTitle="Introduction">
 
     <p>I was born in Massafra on February 20, 1940. It was the time of war and I grew up in poverty.</p>

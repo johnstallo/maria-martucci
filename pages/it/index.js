@@ -4,6 +4,7 @@ import Layout from '../../components/MyLayout'
 import ContentLayout from '../../components/ContentLayout'
 import ChapterPreview from '../../components/ChapterPreview'
 import EndSpace from '../../components/EndSpace'
+import Start from '../../components/Start'
 
 const Index = () => (
   <div>
@@ -19,21 +20,22 @@ const Index = () => (
     <Layout>
       <ContentLayout>
         <ChapterPreview title="Premessa" chapterRef="it/premessa" />
-        <ChapterPreview title="1. Introduzione" chapterRef="it/1-introduzione" />
-        <ChapterPreview title="2. La conversione di mia madre" chapterRef="it/2-conversione-di-mia-madre" />
-        <ChapterPreview title="3. La dura prova" chapterRef="it/3-dura-prova" />
-        <ChapterPreview title="4. La gallina" chapterRef="it/4-gallina" />
-        <ChapterPreview title="5. La guarigione di Gino" chapterRef="it/5-guarigione-di-gino" />
-        <ChapterPreview title="6. La chiesa di Massafra" chapterRef="it/6-chiesa-di-massafra" />
-        <ChapterPreview title="7. La malattia di papà" chapterRef="it/7-malattia-di-papa" />
-        <ChapterPreview title="8. Il Tabacco" chapterRef="it/8-tabacco" />
-        <ChapterPreview title="9. La tubercolosi" chapterRef="it/9-tubercolosi" />
-        <ChapterPreview title="10. La nefrite" chapterRef="it/10-nefrite" />
-        <ChapterPreview title="11. L’incidente alla mano" chapterRef="it/11-incidente-alla-mano" />
-        <ChapterPreview title="12. L’ulcera" chapterRef="it/12-ulcera" />
-        <ChapterPreview title="13. La conversione di una vicina" chapterRef="it/13-conversione-di-una-vicina" />
-        <ChapterPreview title="14. Conclusione" chapterRef="it/14-conclusione" />
+        <ChapterPreview title="1. Introduzione" chapterRef="it/1" />
+        <ChapterPreview title="2. La conversione di mia madre" chapterRef="it/2" />
+        <ChapterPreview title="3. La dura prova" chapterRef="it/3" />
+        <ChapterPreview title="4. La gallina" chapterRef="it/4" />
+        <ChapterPreview title="5. La guarigione di Gino" chapterRef="it/5" />
+        <ChapterPreview title="6. La chiesa di Massafra" chapterRef="it/6" />
+        <ChapterPreview title="7. La malattia di papà" chapterRef="it/7" />
+        <ChapterPreview title="8. Il Tabacco" chapterRef="it/8" />
+        <ChapterPreview title="9. La tubercolosi" chapterRef="it/9" />
+        <ChapterPreview title="10. La nefrite" chapterRef="it/10" />
+        <ChapterPreview title="11. L’incidente alla mano" chapterRef="it/11" />
+        <ChapterPreview title="12. L’ulcera" chapterRef="it/12" />
+        <ChapterPreview title="13. La conversione di una vicina" chapterRef="it/13" />
+        <ChapterPreview title="14. Conclusione" chapterRef="it/14" />
       </ContentLayout>
+      <Start buttonUrl="it/premessa" buttonText="Iniziare a Leggere" /> <br/>
       <EndSpace />
     </Layout>
     <style jsx>{`

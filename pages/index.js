@@ -4,6 +4,7 @@ import Layout from '../components/MyLayout'
 import ContentLayout from '../components/ContentLayout'
 import ChapterPreview from '../components/ChapterPreview'
 import EndSpace from '../components/EndSpace'
+import Start from '../components/Start'
 
 const Index = () => (
   <div>
@@ -15,25 +16,27 @@ const Index = () => (
     </Head>
 
 
-    <Hero subtitle="A story of love and trust in God" author="by Maria Anunziata Stallo"/>
-    <Layout>  
+    <Hero subtitle="A story of love and trust in God" author="by Maria Anunziata Stallo" />
+    
+    <Layout>
       <ContentLayout>
         <ChapterPreview title="Premise" chapterRef="premise" />
-        <ChapterPreview title="1. Introduction" chapterRef="1-introduction" />
-        <ChapterPreview title="2. My mother's conversion" chapterRef="2-my-mothers-conversion" />
-        <ChapterPreview title="3. The fiery trial" chapterRef="3-the-fiery-trial" />
-        <ChapterPreview title="4. The hen" chapterRef="4-the-hen" />
-        <ChapterPreview title="5. The healing of Gino" chapterRef="5-healing-of-gino" />
-        <ChapterPreview title="6. The church of Massafra" chapterRef="6-church-of-massafra" />
-        <ChapterPreview title="7. Papa's illness" chapterRef="7-papas-illness" />
-        <ChapterPreview title="8. The tobacco" chapterRef="8-tobacco" />
-        <ChapterPreview title="9. Tuberculosis" chapterRef="9-tuberculosis" />
-        <ChapterPreview title="10. Nephritis" chapterRef="10-nephritis" />
-        <ChapterPreview title="11. The hand injury" chapterRef="11-hand-injury" />
-        <ChapterPreview title="12. The ulcer" chapterRef="12-ulcer" />
-        <ChapterPreview title="13. The conversion of a neighbor" chapterRef="13-conversion-of-a-neighbor" />
-        <ChapterPreview title="14. Conclusion" chapterRef="14-conclusion" />
+        <ChapterPreview title="1. Introduction" chapterRef="1" />
+        <ChapterPreview title="2. My mother's conversion" chapterRef="2" />
+        <ChapterPreview title="3. The fiery trial" chapterRef="3" />
+        <ChapterPreview title="4. The hen" chapterRef="4" />
+        <ChapterPreview title="5. The healing of Gino" chapterRef="5" />
+        <ChapterPreview title="6. The church of Massafra" chapterRef="6" />
+        <ChapterPreview title="7. Papa's illness" chapterRef="7" />
+        <ChapterPreview title="8. The tobacco" chapterRef="8" />
+        <ChapterPreview title="9. Tuberculosis" chapterRef="9" />
+        <ChapterPreview title="10. Nephritis" chapterRef="10" />
+        <ChapterPreview title="11. The hand injury" chapterRef="11" />
+        <ChapterPreview title="12. The ulcer" chapterRef="12" />
+        <ChapterPreview title="13. The conversion of a neighbor" chapterRef="13" />
+        <ChapterPreview title="14. Conclusion" chapterRef="14" />
       </ContentLayout>
+      <Start buttonUrl="/premise" buttonText="Start Reading" /> <br/>
       <EndSpace />
     </Layout>
     <style jsx>{`

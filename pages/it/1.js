@@ -4,7 +4,7 @@ export default () => (
   <ChapterLayout
     pageTitle="Maria Martucci - Introduzione"
     chapterTitle="1. Introduzione"
-    next="/it/2-conversione-di-mia-madre"
+    next="/it/2"
     nextTitle="La conversione di mia madre"
     locale="it">
 
@@ -13,5 +13,6 @@ export default () => (
     <p>Da quel momento in poi, mio padre iniziò a prendersi cura della propria casa, prendendo il posto e la responsabilità di un vero e proprio capofamiglia, essendo anche l’unico maschio su cinque figli.</p>
     <p>All'età di 20 anni, precisamente il 10 Novembre 1929, i miei si sposarono e si stabilirono a Mottola.</p>
     <p>Ebbero tre figli: una bimba e due maschietti. Non ricordo da quale malattia furono colpiti i primi due bambini, ma a causa di questa morirono, e in seguito a questo grande dolore decisero di trasferirsi con il piccolo Giovanni a Massafra, paese nativo di mio padre. Era il 1936.</p>
+
   </ChapterLayout>
 )

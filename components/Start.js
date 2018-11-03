@@ -1,14 +1,14 @@
 import Link from 'next/link'
 
 const layoutStyle = {
-  marginTop: 30, paddingRight: 20
+  marginTop: 10, paddingRight: 20
 }
 
-const Footer = (props) => (
-    <div className="text-right" style={layoutStyle}>
+const Start = (props) => (
+    <div className="text-left" style={layoutStyle}>
         <br/>
-        <Link href={props.next}>
-          <a>{props.nextTitle} &raquo;</a>
+        <Link href={props.buttonUrl}>
+          <a>{props.buttonText} &raquo;</a>
         </Link>
         <style jsx>{`
           a {
@@ -23,4 +23,4 @@ const Footer = (props) => (
     </div>
 )
 
-export default Footer
+export default Start

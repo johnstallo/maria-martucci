@@ -4,7 +4,7 @@ export default () => (
   <ChapterLayout
     pageTitle="Maria Martucci - Premessa"
     chapterTitle="Premessa"
-    next="~/it/1-introduzione"
+    next="/it/1"
     nextTitle="Introduzione"
     locale="it">
 
@@ -17,5 +17,6 @@ export default () => (
     <p>Ho pregato tanto il Signore di guidarmi a scrivere questo piccolo volumetto, al fine di fare conoscere alla nuova generazione la fedele dedizione al servizio del Signore di questa donna e di come Egli si è servito di lei per la salvezza di molte anime.</p>
     <p>Voglia il Signore della Gloria continuare a salvare uomini e donne ancora in questa generazione.</p>
     <p><b>- Maria Annunziata Stallo</b></p>
+
   </ChapterLayout>
 )
