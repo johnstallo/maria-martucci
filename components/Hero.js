@@ -36,6 +36,14 @@ const Hero = (props) => (
         margin-top: 0px;
         line-height: 1.5;
       }
+      @media (max-width: 320px) {
+        h1 {
+          font-size: 40px;
+        }
+        h4 {
+          font-size: 14px;
+        }
+      }
       @media (min-width: 768px) {
         div {
           text-align: left;
