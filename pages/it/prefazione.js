@@ -2,8 +2,8 @@ import ChapterLayout from '../../components/ChapterLayout'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - Premessa"
-    chapterTitle="Premessa"
+    pageTitle="Maria Martucci - Prefazione"
+    chapterTitle="Prefazione"
     next="/it/1"
     nextTitle="Introduzione"
     locale="it">
