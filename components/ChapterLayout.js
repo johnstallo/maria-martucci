@@ -17,7 +17,7 @@ const ChapterLayout = (props) => (
       <meta name="description" content={props.pageTitle} />
       <meta property="og:title" content="Maria Martucci" />
       <meta property="og:description" content={props.pageTitle} />
-      <meta property="og:image" content="/static/android-chrome-192x192.png" />
+      <meta property="og:image" content="/static/android-chrome-512x512.png" />
     </Head>
 
     <Header locale={props.locale}/>  

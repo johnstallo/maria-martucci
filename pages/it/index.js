@@ -18,7 +18,7 @@ const Index = () => (
       <meta name="description" content="Una storia di amore e fiducia in Dio" />
       <meta property="og:title" content="Maria Martucci" />
       <meta property="og:description" content="Una storia di amore e fiducia in Dio" />
-      <meta property="og:image" content="/static/android-chrome-192x192.png" />
+      <meta property="og:image" content="/static/android-chrome-512x512.png" />
     </Head>
 
 
