@@ -37,6 +37,9 @@ export default class extends Document {
           <link rel="mask-icon" href="/static/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#2d89ef"></meta>
           <meta name="theme-color" content="#ffffff"></meta>
+
+          
+
         </Head>
         <body>
           <Main />

@@ -14,11 +14,16 @@ const Index = () => (
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossOrigin="anonymous"></link>
       <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|La+Belle+Aurore" rel="stylesheet"></link>
+
+      <meta name="description" content="A story of love and trust in God" />
+      <meta property="og:title" content="Maria Martucci" />
+      <meta property="og:description" content="A story of love and trust in God" />
+      <meta property="og:image" content="/static/android-chrome-192x192.png" />
     </Head>
 
 
     <Hero subtitle="A story of love and trust in God" author="by Maria Anunziata Stallo" />
-    
+
     <Layout>
       <ContentLayout>
         <ChapterPreview title="Preface" chapterRef="preface" />
@@ -37,7 +42,7 @@ const Index = () => (
         <ChapterPreview title="13. The conversion of a neighbor" chapterRef="13" />
         <ChapterPreview title="14. Conclusion" chapterRef="14" />
       </ContentLayout>
-      <Start buttonUrl="/preface" buttonText="Start Reading" /> <br/>
+      <Start buttonUrl="/preface" buttonText="Start Reading" /> <br />
       <EndSpace />
     </Layout>
     <style jsx>{`

@@ -13,6 +13,11 @@ const ChapterLayout = (props) => (
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossOrigin="anonymous"></link>
       <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|La+Belle+Aurore" rel="stylesheet"></link>
+
+      <meta name="description" content={props.pageTitle} />
+      <meta property="og:title" content="Maria Martucci" />
+      <meta property="og:description" content={props.pageTitle} />
+      <meta property="og:image" content="/static/android-chrome-192x192.png" />
     </Head>
 
     <Header locale={props.locale}/>  
