@@ -8,13 +8,13 @@ export default () => (
     nextTitle="The healing of Gino">
 
     <p>In the house where we lived there was a courtyard with a small chicken coop.</p>
-    <p>One day, dad eyed a hen die. “Prepare this hen for the meat sauce tomorrow. And also prepare Orecchiette pasta.” He was very desirous of that hen, especially in that time of absolute poverty, and he licked his lips at the very thought of a good dish of meat ragù. My mom said, “I don't want the meat sauce, I’ll have the orecchiette with ricotta”.</p>
+    <p>One day, Dad eyed a hen die. “Prepare this hen for the meat sauce tomorrow. And also prepare Orecchiette pasta.” He was very desirous of that hen, especially in that time of absolute poverty, and he licked his lips at the very thought of a good dish of meat ragù. My mom said, “I don't want the meat sauce, I’ll have the orecchiette with ricotta”.</p>
     <p>The next day, she prepared the chicken with the meat sauce, and the orecchiette with the ricotta for her.</p>
     <p>When everything was on the table, Dad, instigated by the enemy, said, “All right! Eat the orecchiette with the ricotta, but after you will eat the meat too!” Mom said, “No, I won’t eat it. I can't eat the hen we raised!” My father cussed and went on to say, “You won’t eat it because the <i>evangelists</i> don't eat the flesh of dead animals?” (Even today many do not know the difference between the two words “evangelist” and “evangelical”). My father was sure that my mother did not want to eat the hen in order to obey some rule of her new religion, and so he tried to provoke her.</p>
     <p>“Well,” said my mother, “it is so. It is written in the Bible not to eat blood, nor strangled meat, because its life is its blood.” (see Acts 15:29).</p>
     <p>At those words, Dad became enraged, and he took the bowl full of dough and threw it on the ground breaking it. Then he went away infuriated.</p>
     <p>My mother, with much patience, picked it all up, threw away the dough and told us children: “Come, let’s pray that the Lord may forgive him and save him.”</p>
-    <p>However, we were hungry. “Come to the table and eat the meat!” she told us. But because we paid attention to everything that mom and dad said, we replied, “Mom, isn't it written in the Bible not to eat strangled meat?”</p>
+    <p>However, we were hungry. “Come to the table and eat the meat!” she told us. But because we paid attention to everything that Mom and Dad said, we replied, “Mom, isn't it written in the Bible not to eat strangled meat?”</p>
     <p>To that question she answered, “You are right my children! I will give you something else to eat.”</p>
     <p>My father returned late that night, and we children had already gone to bed.</p>
     <p>He placed on the table a parcel wrapped up in paper and my mother, as if nothing had happened, opened it and saw raw liver (it was the first time he had brought raw liver, as other times he had brought it already cooked from the store).</p>
