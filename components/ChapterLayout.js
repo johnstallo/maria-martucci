@@ -24,7 +24,11 @@ const ChapterLayout = (props) => (
       </ContentLayout>
       <Footer next={props.next} nextTitle={props.nextTitle}/>
     </Layout>
-    
+    <style jsx>{`
+      h3 {
+        margin-bottom: 0.8em;
+      }
+    `}</style>
     <EndSpace/>
   </Page>
 )
