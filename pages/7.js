@@ -1,4 +1,5 @@
 import ChapterLayout from '../components/ChapterLayout'
+import BibleQuote from '../components/BibleQuote'
 
 export default () => (
   <ChapterLayout
@@ -20,7 +21,7 @@ export default () => (
     <p><i>Hebrews 4:14-15; 10:21 explains how Jesus is our only High Priest;</i></p>
     <p><i>1 John 1:9 states that when we confess our sins, He – and nobody else – is faithful and just to forgive us our sins and cleanse us of all unrighteousness.</i></p>
     <p><i>When James 5:16 mentions that we are to confess our sins one to another, it does not mean confessing to a human in the priestly role, but more simply that it is right and necessary to ask our neighbor for forgiveness if we have offended or wronged them. The verse, in fact, continues by encouraging believers to pray for each other and, moreover, does not refer in any way to the remission of sins.)</i></p>
-    <p>They quoted several other Bible passages, so much so that the priest exclaimed, “You are a liar! You said that you and your sister-in-law cannot read but, if so, how do you know so many verses?” My mother replied: “Don Antonio, I am sorry that you are a priest and you do not know that the Bible says: <span>‘And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit.’</span>” <span>(Mark 13:11; Matthew 10:19)</span>. After this exchange of words, the priest felt that he had lost the battle and, angry, sent them away.</p>
+    <p>They quoted several other Bible passages, so much so that the priest exclaimed, “You are a liar! You said that you and your sister-in-law cannot read but, if so, how do you know so many verses?” My mother replied: “Don Antonio, I am sorry that you are a priest and you do not know that the Bible says: <BibleQuote>‘And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit.’</BibleQuote>” <BibleQuote>(Mark 13:11; Matthew 10:19)</BibleQuote>. After this exchange of words, the priest felt that he had lost the battle and, angry, sent them away.</p>
     <p>“If you want to work you will have to go to confession!” he added. My mother retorted, “I have no intention of going to confession, God will provide!” My mother and aunt went away not feeling demoralized but edified and fortified for the way the Lord had guided them.</p>
     <p>That Sunday morning, the priest told his parishioners during mass: “Listen and pay attention, what I am about to say is very important! In via Maroncelli no. 7 lives a certain Maria Martucci, she has six children and a husband sick with malaria who cannot work.</p>
     <p>This woman has been excommunicated; do not even pass by her house. I say this because she was offered a job at the child daycare’s kitchen and she refused it, because she did not want to confess before starting work, saying that she only confesses to her God. Be careful, therefore, even to pass by that road.”</p>
@@ -42,11 +43,5 @@ export default () => (
     <p>The next day they arrived in Massafra, and together they went to Scalina’s shop, and asked for the total amount owing. Scalina lost no time and said, “I've already calculated the bill. The total is forty thousand lire.” It was the year 1948/1949, and that was a lot of money! My mother counted out the money and handed it to her. The shopkeeper lifted her head and exclaimed, “But Maria! You are paying me everything!” My mother replied, “Didn't I tell you that the Lord I serve and trust would provide me with everything I needed so that I could repay you to the last penny? So, the Lord has done so and I have come to pay my debt.”</p>
     <p>And so, once again, my mother shared with her about Jesus and the love He has for those who love Him, who fear Him and who confess their sin only to Him!</p>
     <p>The shopkeeper, still astounded, said, “Maria, do not hesitate to come here when you need anything, because now I know that your God is great.” My mother said to her: “You would love my God too, if one day you came to know Him and trusted Him in Spirit and Truth.”</p>
-    <style global jsx>{`
-      span {
-        color: #d64161;
-        font-style: italic;
-      }
-    `}</style>
   </ChapterLayout>
 )

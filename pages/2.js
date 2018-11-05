@@ -1,9 +1,5 @@
 import ChapterLayout from '../components/ChapterLayout'
-
-const bibleQuote = {
-  // color: '#d64161',
-  // fontStyle: 'italic',
-}
+import BibleQuote from '../components/BibleQuote'
 
 export default () => (
   <ChapterLayout
@@ -24,8 +20,8 @@ export default () => (
     <p>Soon after, a preacher named Pola of Ginosa began to visit Massafra.</p>
     <p>One day as my mother was praying alone in her house, she began to feel a great joy within her: she felt the presence of God in her heart and she began to speak in other tongues; she did not understand what was happening to her, because she had never been told about the Holy Spirit. When later she met with her fellow believers to pray, the Holy Spirit manifested again, and my mother again began to speak in other tongues. Sister Angela Maria, who also did not know about the baptism of the Holy Spirit, thought this behavior “strange,” and that it was not of God.</p>
     <p>Several days later, the brother from Ginosa came to visit the believers in Massafra, and Angela Maria immediately referred to him what had happened to my mother during prayer. The sister said: “I don’t know, maybe it is some evil spirit and this thing is not of God.” The brother replied, “Don't worry, I'll examine the matter.”</p>
-    <p>During prayer, my mother began to speak in tongues and there was a great manifestation of the Spirit of God. The brother then explained the bible passage of Pentecost and that this promise was not only for the disciples, but <span>unto as many the Lord shall call</span> (as it is written in Acts 2) and therefore added: “Sister Maria was baptized in the Holy Spirit!”</p>
-    <p>During that time, my mother was also told about the baptism in water that is in obedience to Jesus’ command to <span>go therefore and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost (Matthew 28:19).</span> My mother said, “I want to be baptized according to His command!” And so, sister Angela Maria’s bathtub was used as a baptistery, and as it is written that <span>joy shall be in heaven over one sinner that repenteth (Luke 15:7)</span> so there was great joy also on earth. Glory to God!</p>
+    <p>During prayer, my mother began to speak in tongues and there was a great manifestation of the Spirit of God. The brother then explained the bible passage of Pentecost and that this promise was not only for the disciples, but <BibleQuote>unto as many the Lord shall call</BibleQuote> (as it is written in Acts 2) and therefore added: “Sister Maria was baptized in the Holy Spirit!”</p>
+    <p>During that time, my mother was also told about the baptism in water that is in obedience to Jesus’ command to <BibleQuote>go therefore and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost (Matthew 28:19).</BibleQuote> My mother said, “I want to be baptized according to His command!” And so, sister Angela Maria’s bathtub was used as a baptistery, and as it is written that <BibleQuote>joy shall be in heaven over one sinner that repenteth (Luke 15:7)</BibleQuote> so there was great joy also on earth. Glory to God!</p>
     <p>In 1940, a daughter was born, Maria Annunziata (that is, me, <i>Titina</i>, as they always called me).</p>
     <p>During that time the Second World War was underway, and it was very difficult to find food, especially for the poorest families; we could buy only flour and other essential food items with food stamps distributed by the local government, and only a precise quantity based on the number of members in each household. Food was scarce, and we suffered hunger.</p>
     <p>In 1942 my mother gave birth to another son, whom she named Antonio; the family continued to grow, and food decreased more and more. My mother prayed to God to provide for them.</p>
@@ -33,11 +29,5 @@ export default () => (
     <p>So, we all prayed together, and soon after we heard a knock at the door. It was a neighbor, who said to my mother: “Maria, it was my daughter’s wedding yesterday, and many guests did not come. Many trays of oven-baked pasta, potatoes, and meat were left over, and I thought perhaps you wouldn't be offended if I brought some to you, since you have many children. If you like I will bring everything to you.”</p>
     <p>My mother not only accepted all the good that God had provided, she also told the woman of all that had happened and how the Lord had entered her heart, and then she thanked her.</p>
     <p>We really saw a miracle of God!</p>
-    <style global jsx>{`
-      span {
-        color: #d64161;
-        font-style: italic;
-      }
-    `}</style>
   </ChapterLayout>
 )

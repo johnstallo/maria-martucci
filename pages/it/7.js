@@ -1,4 +1,5 @@
 import ChapterLayout from '../../components/ChapterLayout'
+import BibleQuote from '../../components/BibleQuote'
 
 export default () => (
   <ChapterLayout
@@ -18,7 +19,7 @@ export default () => (
     <p><i>Ebrei 4:14, 15; 10:21, passi che spiegano che Gesù è il solo Sommo Sacerdote;</i></p>
     <p><i>I Giovanni 1:9, che specifica, infine, che quando confessiamo i nostri peccati Egli – e nessun altro – è fedele e giusto da perdonarci i peccati e purificarci da ogni iniquità.</i></p>
     <p><i>Il versetto di Giacomo 5:16, in cui si dice di confessare i nostri peccati gli uni agli altri, non fa riferimento a figure sacerdotali umane ma vuole intendere, più semplicemente, che è giusto e necessario chiedere perdono al nostro prossimo se lo abbiamo offeso o danneggiato. Il versetto, infatti, continua incoraggiando i credenti a pregare gli uni per gli altri e, oltretutto, non parla in alcun modo di remissione dei peccati).</i></p>
-    <p>Citarono diversi altri punti della Bibbia, tanto che il prete disse: “Sei bugiarda! Hai detto che tu e tua cognata non sapete leggere ma, se è così, come fate a conoscere tanti versetti?”. La mamma gli rispose: “Mi dispiace Don Antonio, siete un sacerdote e non sapete che sulla Bibbia c'è scritto: <span>“Quando vi condurranno per mettervi nelle loro mani, non preoccupatevi in anticipo di ciò che direte, ma dite quello che vi sarà dato in quell'ora; perché non siete voi che parlate, ma lo Spirito Santo” (Marco 13:11; Matteo 10:19)</span>. Dopo tutte queste parole, il prete sentì di aver perso la battaglia e, arrabbiato, le cacciò via.</p>
+    <p>Citarono diversi altri punti della Bibbia, tanto che il prete disse: “Sei bugiarda! Hai detto che tu e tua cognata non sapete leggere ma, se è così, come fate a conoscere tanti versetti?”. La mamma gli rispose: “Mi dispiace Don Antonio, siete un sacerdote e non sapete che sulla Bibbia c'è scritto: <BibleQuote>“Quando vi condurranno per mettervi nelle loro mani, non preoccupatevi in anticipo di ciò che direte, ma dite quello che vi sarà dato in quell'ora; perché non siete voi che parlate, ma lo Spirito Santo” (Marco 13:11; Matteo 10:19)</BibleQuote>. Dopo tutte queste parole, il prete sentì di aver perso la battaglia e, arrabbiato, le cacciò via.</p>
     <p>“Se vuoi prestare servizio devi comunque fare la confessione!”, aggiunse poi. Mia madre allora ribatté: “Non intendo affatto confessarmi, Iddio provvederà!”. Mia madre e mia zia andarono via da quel luogo non abbattute, ma edificate e fortificate per come il Signore le aveva guidate. </p>
     <p>Domenica mattina, il prete durante la messa disse ai suoi parrocchiani: “Ascoltate e stati attenti, è molto importante quello che sto per dire! In via Maroncelli n° 7 abita una certa Maria Martucci, che ha sei figli e un marito malato di malaria che non può lavorare.</p>
     <p>Questa donna è stata scomunicata, non passate nemmeno davanti a casa sua. Dico questo perché aveva avuto la grazia di avere un posto di lavoro in cucina all'asilo nido e l'ha rifiutato, perché non ha voluto confessarsi prima di prendere servizio, dicendo che lei si confessa soltanto al suo Dio. State attenti, perciò, perfino a passare da quella strada”.</p>
@@ -40,11 +41,5 @@ export default () => (
     <p>Il giorno dopo arrivarono a Massafra e, insieme al fratello, la mamma si recò al negozio di Scalina, chiedendole di farle il conto. Scalina non perse tempo e le disse: “Il conto l’ho già fatto. Il totale è di quarantamila lire”. Era l’anno 1948/1949, e quelli erano tanti soldi! Mia madre prese i soldi e glieli diede. La negoziante alzò la testa e disse: “Ma Maria! Ma mi paghi tutto!?”. E lei rispose: “Non ti avevo già detto che il Signore che servo e in cui confido mi avrebbe provveduto tutto il necessario e ti avrei restituito fino all’ultimo centesimo? Così il Signore ha fatto e sono venuta a pagare il mio debito”.</p>
     <p>Così, ancora una volta, le parlò di Gesù e dell’amore che usa verso quelli che Lo amano, che Lo temono e che confessano a Lui soltanto il proprio peccato!</p>
     <p>La negoziante, ancora sbalordita, le disse: “Maria, se avrai ancora bisogno di qualcosa vieni pure e non ti preoccupare, perché ora capisco che il vostro Dio è grande”. La mamma le rispose ancora: “Piacerebbe anche a te, il mio Dio, se un giorno tu Lo conoscessi e ti confidassi in Lui in Spirito e Verità”.</p>
-    <style global jsx>{`
-      span {
-        color: #d64161;
-        font-style: italic;
-      }
-    `}</style>
   </ChapterLayout>
 )
