@@ -5,13 +5,13 @@ import flush from 'styled-jsx/server'
 import { GA_TRACKING_ID } from '../lib/gtag'
 
 export default class extends Document {
-  static getInitialProps ({ renderPage }) {
+  static getInitialProps({ renderPage }) {
     const { html, head, errorHtml, chunks } = renderPage()
     const styles = flush()
     return { html, head, errorHtml, chunks, styles }
   }
 
-  render () {
+  render() {
     return (
       <html>
         <Head>
@@ -29,6 +29,14 @@ export default class extends Document {
             gtag('config', '${GA_TRACKING_ID}');
           `}}
           />
+          <link rel="icon" type="image/x-icon" href="/static/favicon.ico" />
+          <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png" />
+          <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png" />
+          <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png" />
+          <link rel="manifest" href="/static/site.webmanifest" />
+          <link rel="mask-icon" href="/static/safari-pinned-tab.svg" color="#5bbad5" />
+          <meta name="msapplication-TileColor" content="#2d89ef"></meta>
+          <meta name="theme-color" content="#ffffff"></meta>
         </Head>
         <body>
           <Main />
