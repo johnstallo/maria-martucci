@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import ActiveLink from '../components/ActiveLink'
 import Link from 'next/link'
 
 function MyLink (props) {
@@ -16,9 +15,6 @@ export default class Header extends React.Component {
   render() {
     return (
       <div>
-        {/* <ActiveLink>
-          Maria Martucci
-        </ActiveLink> */}
         <MyLink locale={this.props.locale}>
           <a>Maria Martucci</a>
         </MyLink>
