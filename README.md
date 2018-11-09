@@ -1,11 +1,11 @@
-# maria-martucci
+# maria-martucci website
 
 ## Setup
 ``` bash
 # clone source repo
 git clone https://github.com/johnstallo/maria-martucci.git
 
-# install ZEIT's Now command
+# install ZEIT's Now CLI
 npm install -g now
 ```
 
