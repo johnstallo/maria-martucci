@@ -13,11 +13,9 @@ const Footer = (props) => (
         <style jsx>{`
           a {
             background-color: #feb236;
-            padding: 8px;
+            padding: 10px;
             color: black;
-            // font-size: larger;
             font-family: 'Merriweather Sans', sans-serif;
-            // box-shadow: 3px 3px #ddd;
           }
         `}</style>
     </div>
