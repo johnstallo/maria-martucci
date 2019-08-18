@@ -21,13 +21,13 @@ npm run dev
 # Run from the root folder
 now
 ```
-## Update Prod
+## Deploy to Production
 ```bash
 # View deployments
 now ls
 
-# Update alias
-now alias my-deployment-123.now.sh mariamartucci.com
+# Deploy to production
+now --target production 
 
 # (optional) Scale min 2, max 4 instances
 now scale my-deployment-123.now.sh 2 4
