@@ -28,7 +28,3 @@ now ls
 
 # Deploy to production
 now --target production 
-
-# (optional) Scale min 2, max 4 instances
-now scale my-deployment-123.now.sh 2 4
-```
