@@ -33,7 +33,7 @@ const Index = () => (
         <ChapterPreview title="5. La guarigione di Gino" chapterRef="it/5" />
         <ChapterPreview title="6. La chiesa di Massafra" chapterRef="it/6" />
         <ChapterPreview title="7. La malattia di papà" chapterRef="it/7" />
-        <ChapterPreview title="8. Il Tabacco" chapterRef="it/8" />
+        <ChapterPreview title="8. Il tabacco" chapterRef="it/8" />
         <ChapterPreview title="9. La tubercolosi" chapterRef="it/9" />
         <ChapterPreview title="10. La nefrite" chapterRef="it/10" />
         <ChapterPreview title="11. L’incidente alla mano" chapterRef="it/11" />

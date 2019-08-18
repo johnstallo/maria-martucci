@@ -6,7 +6,7 @@ export default () => (
     pageTitle="Maria Martucci - La malattia di papà"
     chapterTitle="7. La malattia di papà"
     next="/it/8"
-    nextTitle="Il Tabacco"
+    nextTitle="Il tabacco"
     locale="it">
 
     <p>Erano gli anni in cui finì la guerra, però c'era molta povertà. Mio padre faceva l'ortolano e vicino al posto dove lavorava c'erano gli inglesi che, allora, erano incaricati di aiutare gli italiani a risollevarsi dalle perdite della guerra. Mio padre, in quel periodo, fu colpito dalla malaria e non poté più lavorare. Eravamo sei figli, in casa mancava di tutto e mia madre fu costretta a cercare un lavoro. Presentò la sua domanda presso un asilo nido come “serviziente” ossia come addetta alla mensa scolastica. In quel periodo facevamo la spesa in un negozio di alimentari, la cui proprietaria si chiamava Scalina. Un giorno mia madre fu costretta a chiederle di farle credito, spiegando della malattia che aveva colpito mio padre e promettendo di saldare quanto prima il debito. Scalina si mostrò molto comprensiva, ben sapendo della situazione in cui mia madre era venuta a trovarsi, perciò le disse: “Maria, non ti preoccupare, prendi tutto quello di cui ha bisogno la tua famiglia, e quando tuo marito starà bene mi pagherai”.</p>
