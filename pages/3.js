@@ -15,7 +15,6 @@ export default () => (
     <p>Instead of remonstrating, however, she continued to speak about Jesus; she would often say to my father, “Give your heart to Jesus as well, and you will see how wonderful it is. Listen to His Word and let us pray together, and He [Jesus] will operate.” But the more my mother would say these words the more my father would become infuriated, resulting in him reinforcing all the more his prohibition for her to attend Angela Maria’s house.</p>
     <p>But my mother continued to go in secret to Angela Maria to listen to the Word of God, and she always tried not to provide my father with an opportunity to get angry for the umpteenth time. To hide her absences, she always endeavored to organize lunch and all her chores with precision and perfectly on time (as my father continually sought the slightest excuse to attack her). The Lord, however, always protected her and blessed her with strength, calm, and wisdom in the manner in which she spoke and in all her doings. </p>
     <p>The entire neighborhood continued, however, to insult her, telling her repeatedly that her little boy was bearing the brunt of her sin, and who remained sick despite her faith. She remained undeterred and above all certain of being on the right path, God’s path, and she continued to testify how Jesus saves and heals.</p>
-    <p>In 1947 another girl was born, whom they called Rosa Antonia (nicknamed Antonietta).</p>
 
   </ChapterLayout>
 )
