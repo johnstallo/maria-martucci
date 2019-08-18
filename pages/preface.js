@@ -18,6 +18,6 @@ export default () => (
     <p>I prayed earnestly for the Lord's guidance and I began to write down in a diary all that I could recall about my mother's life. The purpose of this work is to make known to a new generation the faithful dedication of this woman's service to the Lord and how He used her for the salvation of many souls.</p>
     <p>Throughout her life, my mother never missed an opportunity to share about her powerful Lord and Savior, and now that she can no longer do so, may this little book continue to declare that only in Christ Jesus is there salvation, comfort, and freedom.</p>
     <p>May the Lord of Glory continue to save men and women in this generation.</p>
-    <p style={{textAlign:'right'}}><b>Maria Annunziata Stallo</b></p>
+    <p><b>- Maria Annunziata Stallo</b></p>
   </ChapterLayout>
 )
