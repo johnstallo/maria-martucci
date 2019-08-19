@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-## Deploy
+## Deploy to Staging
 ```bash
 # Run from the root folder
 now
@@ -28,3 +28,4 @@ now ls
 
 # Deploy to production
 now --target production 
+```
