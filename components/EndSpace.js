@@ -1,6 +1,6 @@
 const EndSpace = () => (
   <div>
-    <br/><br/><br/><br/>
+    <br/><br/>
   </div>
 )
 

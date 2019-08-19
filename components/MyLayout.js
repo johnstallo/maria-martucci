@@ -1,11 +1,21 @@
+import EndSpace from './EndSpace'
+
 const Layout = (props) => (
   <div>
     {props.children}
+    <EndSpace />
+    <div className="copyright">© 2019 Maria Anunziata Stallo. All rights reserved.</div>
     <style jsx>{`
       div {
         padding: 20px;
         font-family: 'Merriweather', serif;
         font-size: 18px;
+      }
+      div.copyright {
+        font-family: sans-serif;
+        color:#555;
+        font-size:14px;
+        padding-left:0px;
       }
       @media (min-width: 768px) {
         div {
