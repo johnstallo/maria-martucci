@@ -8,7 +8,7 @@ export default () => (
     nextTitle="La gallina"
     locale="it">
 
-    <p>Nel 1945 mia madre diede alla luce ancora un altro figlio, che chiamò Luigi. Dopo alcuni mesi dalla nascita, il bambino ebbe una forte febbre e si ammalò di meningite.</p>
+    <p>Nel 1945 mia madre diede alla luce ancora un altro figlio, che chiamò Luigi (Gino). Dopo alcuni mesi dalla nascita, il bambino ebbe una forte febbre e si ammalò di meningite.</p>
     <p>A causa di questa disgrazia, gli si piegò la testa all’indietro, tanto che la nuca toccava il dorso della schiena; quindi, per mangiare, il bambino doveva essere messo di pancia in giù.</p>
     <p>Secondo mio padre e secondo tutti i familiari, sia dalla parte sua sia dalla parte di mia madre, tutti non credenti, la colpa di questa maledizione ricadeva su mia madre, perché si era convertita all'Evangelo. La insultavano e la umiliavano e addirittura le dicevano che San Cosimo (il Patrono di Massafra), stava castigando lei e la sua famiglia per colpa della sua “nuova religione.”</p>
     <p>Mia nonna materna le diceva: “Maria guardati allo specchio… non vedi che la tua faccia è simile a quella del diavolo?!” Così mia madre fu allontanata da tutta la sua famiglia.</p>

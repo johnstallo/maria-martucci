@@ -7,7 +7,7 @@ export default () => (
     next="/4"
     nextTitle="The hen">
 
-    <p>In 1945 my mother gave birth to yet another son, whom she called Luigi. Only a few months after birth, the baby developed a strong fever and became ill with meningitis.</p>
+    <p>In 1945 my mother gave birth to yet another son, whom she called Luigi (nicknamed Gino). Only a few months after birth, the baby developed a strong fever and became ill with meningitis.</p>
     <p>This terrible disease caused the baby’s neck to bend backward, so that the nape of his neck touched the back of his shoulders; to feed him, he had to be laid on his stomach.</p>
     <p>According to my father, and according to all of his side of the family and her side as well, who were all unbelievers, the cause of this curse was my mother, because she had converted to the Gospel. They insulted and humiliated her and even told her that Saint Cosimo (the patron of Massafra) was chastising her and her family because of her “new religion.”</p>
     <p>My maternal grandmother would say: “Maria, look in the mirror... do you not see how your face looks like that of the devil?!” My mother was shunned by her entire family.</p>
