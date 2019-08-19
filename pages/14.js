@@ -1,5 +1,6 @@
 import ChapterLayout from '../components/ChapterLayout'
 import BibleQuote from '../components/BibleQuote'
+import Photo from '../components/Photo'
 
 export default () => (
   <ChapterLayout
@@ -13,5 +14,6 @@ export default () => (
     <p>In the last period of her life, my mother would tell her children: “When the Lord calls me, I commend you to always be faithful to Him and to not weep for me, for I am going to meet the Lord, my beloved Savior. Instead of suffering for my absence, think that I will be seated at the table of the great King with Abraham, Isaac, Jacob and all the saints, both those I knew and those I will know. We shall all sit at the table and enjoy for all eternity.”</p>
     <p>In the very last days of her life, one of my son-in-laws went to see her. She was bedridden by that time and could hardly speak, but with a low voice she said to him: “My son, how many times have you been told about Jesus? Consider that when He died on the cross, they placed a crown of thorns on His head; He did this for us sinners! Instead, if we are faithful to Him, He will give us a crown of gold!”</p>
     <p>Two days later, at the age of 95, the Lord called her to Him, and she was able to say: <BibleQuote>“I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on that day, and not only to me but also to all who have loved his appearing.” (2 Timothy 4:7, 8)</BibleQuote></p>
+    <Photo src="../static/maria-martucci.jpg" caption="Maria Martucci" />
   </ChapterLayout>
 )

@@ -1,4 +1,5 @@
 import ChapterLayout from '../components/ChapterLayout'
+import Photo from '../components/Photo'
 
 export default () => (
   <ChapterLayout
@@ -12,6 +13,6 @@ export default () => (
     <p>From that moment onward, my father, who was the only male of five children (Antonia, Cosimo, Lucia, Leonarda, Pompea), dutifully took on the burden and responsibility as head of family.</p>
     <p>On November 10, 1929, when Maria was 20 years old, my parents married and settled in Mottola.</p>
     <p>They had three children in the early years of their marriage: a girl and two boys. I do not remember the name of the infectious disease they caught, but the first two children became ill and died within a short timespan of each other. Following this great sorrow, my parents decided to move with their youngest child, Giovanni, who was 2 at the time, to my father’s hometown of Massafra. It was 1936.</p>
-
+    <Photo src="../static/maria-martucci-cosimo-stallo.jpg" caption="My parents: Maria Martucci and Cosimo Stallo (1980)" />
   </ChapterLayout>
 )
