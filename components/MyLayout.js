@@ -4,7 +4,7 @@ const Layout = (props) => (
   <div>
     {props.children}
     <EndSpace />
-    <div className="copyright">© 2019 Maria Annunziata Stallo. All rights reserved.</div>
+    <div className="copyright">© 2016 M. A. Stallo. All rights reserved.</div>
     <style jsx>{`
       div {
         padding: 20px;
@@ -12,7 +12,7 @@ const Layout = (props) => (
         font-size: 18px;
       }
       div.copyright {
-        font-family: sans-serif;
+        font-family: 'Merriweather Sans', sans-serif;
         color:#555;
         font-size:14px;
         padding-left:0px;
