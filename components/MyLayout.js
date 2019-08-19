@@ -4,7 +4,7 @@ const Layout = (props) => (
   <div>
     {props.children}
     <EndSpace />
-    <div className="copyright">© 2019 Maria Anunziata Stallo. All rights reserved.</div>
+    <div className="copyright">© 2019 Maria Annunziata Stallo. All rights reserved.</div>
     <style jsx>{`
       div {
         padding: 20px;

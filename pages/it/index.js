@@ -22,7 +22,7 @@ const Index = () => (
     </Head>
 
 
-    <Hero subtitle="Una storia di amore e fiducia in Dio" author="- Maria Anunziata Stallo" />
+    <Hero subtitle="Una storia di amore e fiducia in Dio" author="- Maria Annunziata Stallo" />
     <Layout>
       <ContentLayout>
         <ChapterPreview title="Prefazione" chapterRef="it/prefazione" />

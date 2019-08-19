@@ -22,7 +22,7 @@ const Index = () => (
     </Head>
 
 
-    <Hero subtitle="A story of love and trust in God" author="by Maria Anunziata Stallo" />
+    <Hero subtitle="A story of love and trust in God" author="by Maria Annunziata Stallo" />
 
     <Layout>
       <ContentLayout>
