@@ -1,5 +1,6 @@
 import ChapterLayout from '../../components/ChapterLayout'
 import BibleQuote from '../../components/BibleQuote';
+import Photo from '../../components/Photo'
 
 export default () => (
   <ChapterLayout
@@ -19,15 +20,19 @@ export default () => (
     <p>Continuarono a discutere e non sapendo più controbattere alle parole che uscivano dalla bocca dei credenti evangelici, quei ragazzi pensarono tra di loro di organizzare un incontro insieme ai preti di cui si fidavano per tutte le questioni religiose. Quando tutti furono andati via, mia madre pur di non lasciare fraintendimenti buttò la mia bambola e io promisi a me stessa che, se un giorno ne avessi avuto l’opportunità, avrei tirato a quel giovane una pietra in testa.</p>
     <p>Una domenica mattina, tornarono con padre Isidoro e diversi monaci e preti di varie associazioni proprio all’ora in cui iniziava il culto. Il fratello Santoro (primo pastore della chiesa di Massafra) si dispose a parlare con loro solo a culto terminato. Essi accettarono e assistettero a tutta la riunione. Quando il culto fu concluso, iniziò il dibattito e Salvatore salì in piedi su una di quelle panche per seguire l’incontro tra la folla che si era creata e fece nel suo cuore la prima preghiera spontanea della sua vita: “Signore, se la verità sta dalla nostra parte guida padre Isidoro in quello che dirà, altrimenti guida le parole di questo pastore evangelico, perché io desidero servire Te.” Dio cominciò a parlare al suo cuore e in seguito a questa esperienza iniziò a leggere la Bibbia. Qualche tempo dopo partì per il militare e si convertì all’Evangelo.</p>
     <p>Nel 1958 divenne mio marito.</p>
-    <br/>
+    <Photo src="../static/young-catholics.jpg" caption="Il gruppo dei giovani di fede cattolica, tra cui anche mio marito Salvatore, allora catechista (nella prima fila il terzo da sinistra)" />
+
     <p>Nel 1951, i miei genitori poterono permettersi di comprare un suolo di 150 metri quadrati per costruire una casa nuova, più grande. Mio padre prese la decisione di adibire la stanza più grande di casa all’opera di Dio, e così fu. Nel 1953 fu tutto realizzato con l’aiuto del Signore, e lì si tennero i culti fino al 1957. In seguito, il Signore provvide alla chiesa di Massafra un primo vero e proprio locale di culto, in Via Paisiello. </p>
     <p>Il fratello Santoro, parlando con i fratelli del consiglio di chiesa, fece presente la necessità di acquistare un suolo per costruire il locale, poiché il Signore aveva salvato tante anime ancora, e la stanza di casa nostra non era più sufficiente a contenere il numero dei fedeli. I fratelli Ramunno Pierino, Ettore e Antonio si offrirono di costruire le mura, e mantennero l’impegno dato. Purtroppo, però, al termine del loro lavoro mancavano i soldi per costruire il solaio. </p>
     <p>I miei genitori avevano corrispondenza con alcuni fratelli americani, che avevano conosciuto e ospitato tempo prima. Il fratello Convertino Salvatore, che allora era il mio fidanzato, con il permesso dei miei genitori scrisse loro una lettera per presentare questa necessità. Dall’America, così, giunsero le offerte per il completamento dell’opera di Dio e il primo vero e proprio locale di culto, con l’accesso libero a chiunque volesse entrare ad ascoltare la Parola del Signore, fu finalmente aperto. </p>
     <p>Sono molto legata al ricordo di quel locale, sia per le grandi benedizioni che il Signore ci diede, sia perché i primi credenti a celebrarvi il loro matrimonio fummo proprio io e mio marito. Siccome, però, allora il matrimonio religioso non era riconosciuto dallo Stato, il giorno prima ci sposammo al Comune, mentre il giorno dopo il fratello Sergio Zucchi (pastore della chiesa di via Emilia, a Taranto) venne a celebrare il culto al Signore e a festeggiare la nostra unione davanti a Dio. </p>
+    <Photo src="../static/sunday-school.jpg" caption="Il gruppo della Scuola Domenicale con il fratello Santoro, il primo in alto a destra" />
+
     <p>L’opera Sua, così, ha continuato ad andare avanti fino a oggi, e per Sua grazia è stato necessario cambiare locale di culto altre volte, perché tante anime si sono convertite al Signore.</p>
     <p>Nel 1954 nacque l’ultimo dei miei fratelli, Elia, che come tutti gli altri figli, diede il cuore al Signore impegnandosi nel servizio cristiano attivamente.</p>
     <p>Mamma gioiva e dava gloria a Dio nel vedere Donato, Antonio ed Elia servire il Signore predicando la Santa Parola di Dio in Italia e all’estero.</p>
     <p>Tutto era fatto per la Gloria di Dio.</p>
+    <Photo src="../static/mom-siblings-spouses.jpg" caption="I miei fratelli e sorella con i rispettivi coniugi, davanti all’attuale chiesa di Massafra, in via Brindisi (1996)" />
 
   </ChapterLayout>
 )

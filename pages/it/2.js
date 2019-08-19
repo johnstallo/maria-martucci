@@ -1,5 +1,6 @@
 import ChapterLayout from '../../components/ChapterLayout'
 import BibleQuote from '../../components/BibleQuote'
+import Photo from '../../components/Photo'
 
 export default () => (
   <ChapterLayout
@@ -34,5 +35,6 @@ export default () => (
     <p>Lo stupore e la gioia fu tanta; da non avere nulla da mangiare, all’improvviso avevamo la tavola miracolosamente imbandita di cibi prelibati.</p>
     <p>Mia madre non solo accettò tutto quel bene che Dio le aveva provveduto, ma testimoniò a quella donna di quanto era successo e di come il Signore le era entrato nel cuore in risposta alla loro preghiera e la ringraziò.</p>
     <p>Vedemmo veramente il miracolo di Dio!</p>
+    <Photo src="../static/mom-and-siblings.jpg" caption="Mia madre e noi figli (1996): Mamma, Giovanni, Donato, Maria Annunziata, Antonio, Luigi, Antonietta, Elia" />
   </ChapterLayout>
 )

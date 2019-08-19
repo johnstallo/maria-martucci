@@ -1,5 +1,6 @@
 import ChapterLayout from '../components/ChapterLayout'
 import BibleQuote from '../components/BibleQuote'
+import Photo from '../components/Photo'
 
 export default () => (
   <ChapterLayout
@@ -30,5 +31,6 @@ export default () => (
     <p>We felt so much wonder and joy; from having nothing to eat, all of a sudden we had the table miraculously laden with much delicious food.</p>
     <p>My mother not only thanked our neighbor and accepted all the good that God had provided, she also told the woman of all that had happened and how the Lord had moved our neighbor's heart in reponse to our prayer.</p>
     <p>We really saw a miracle of God!</p>
+    <Photo src="../static/mom-and-siblings.jpg" caption="My mother with us children (1996): Mamma, Giovanni, Donato, Maria Annunziata, Antonio, Luigi, Antonietta, Elia" />
   </ChapterLayout>
 )

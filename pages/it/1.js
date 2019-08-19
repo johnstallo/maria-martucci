@@ -1,4 +1,5 @@
 import ChapterLayout from '../../components/ChapterLayout'
+import Photo from '../../components/Photo'
 
 export default () => (
   <ChapterLayout
@@ -13,6 +14,6 @@ export default () => (
     <p>Da quel momento in poi, mio padre iniziò a prendersi cura della propria casa, prendendo il posto e la responsabilità di un vero e proprio capofamiglia, essendo anche l’unico maschio su cinque figli (Antonia, Cosimo, Lucia, Leonarda, Pompea).</p>
     <p>Quando mia madre aveva 20 anni, precisamente il 10 Novembre 1929, i miei genitori si sposarono e si stabilirono a Mottola.</p>
     <p>A Mottola nacquero i primi figli due dei quali, non ricordo da quale malattia infettiva furono colpiti, ma a causa di questa morirono nell’arco di poco tempo… in seguito a questo grande dolore i miei genitori decisero di trasferirsi con il piccolo Giovanni, che era nato nel 1934 e aveva circa due anni a Massafra, paese nativo di mio padre. Era il 1936.</p>
-
+    <Photo src="../static/maria-martucci-cosimo-stallo.jpg" caption="I miei genitori: Maria Martucci e Cosimo Stallo (1980)" />
   </ChapterLayout>
 )
