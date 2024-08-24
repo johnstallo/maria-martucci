@@ -6,7 +6,7 @@ export default () => (
     pageTitle="Maria Martucci - Introduzione"
     chapterTitle="1. Introduzione"
     next="/it/2"
-    nextTitle="La conversione di mia madre"
+    nextTitle="La Conversione di Mia Madre"
     locale="it">
 
     <p>Maria Martucci nacque a Mottola, un paese in provincia di Taranto, il 16 settembre 1909, da Martucci Donato e Lattarulo Rosa Antonia. La sua era una famiglia numerosa: la madre faceva la sarta in casa, ed essendo Maria la figlia più grande, i lavori domestici e la cura dei fratelli più piccoli erano affidati a lei, che lavorava con impegno e gioia.</p>

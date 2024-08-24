@@ -2,10 +2,10 @@ import ChapterLayout from '../components/ChapterLayout'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - The fiery trial"
-    chapterTitle="3. The fiery trial"
+    pageTitle="Maria Martucci - The Fiery Trial"
+    chapterTitle="3. The Fiery Trial"
     next="/4"
-    nextTitle="The hen">
+    nextTitle="The Hen">
 
 <p>In 1945, my mother gave birth to another son, whom she named Luigi (nicknamed Gino). Only a few months after his birth, the baby developed a high fever and became ill with meningitis.</p>
 <p>This terrible illness caused the baby’s neck to bend backward so severely that the nape of his neck touched his back; to feed him, he had to be laid on his stomach.</p>

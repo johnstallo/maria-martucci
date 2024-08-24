@@ -2,10 +2,10 @@ import ChapterLayout from '../components/ChapterLayout'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - The hen"
-    chapterTitle="4. The hen"
+    pageTitle="Maria Martucci - The Hen"
+    chapterTitle="4. The Hen"
     next="/5"
-    nextTitle="The healing of Gino">
+    nextTitle="The Healing of Gino">
 
   <p>In the house where we lived, there was a courtyard with a small chicken coop.</p>
   <p>One day, while my father was present, a hen died. “Tomorrow, prepare this hen for a meat sauce. And make orecchiette pasta as well,” he said. My father was eager for that hen, especially during such a time of extreme poverty, and he was already licking his lips at the thought of a good dish of meat ragù. My mother replied, “I don’t want the meat sauce; I want orecchiette with ricotta.”</p>

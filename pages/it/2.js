@@ -4,10 +4,10 @@ import Photo from '../../components/Photo'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - La conversione di mia madre"
-    chapterTitle="2. La conversione di mia madre"
+    pageTitle="Maria Martucci - La Conversione di Mia Madre"
+    chapterTitle="2. La Conversione di Mia Madre"
     next="/it/3"
-    nextTitle="La dura prova"
+    nextTitle="La Dura Prova"
     locale="it">
 
     <p>Mia madre era solita sedere davanti alla porta di casa, quando era libera dalle faccende domestiche o quando faceva molto caldo. Un giorno, mentre era lì seduta, vide un giovane fermarsi alla porta accanto e dire alla signora che vi abitava: “Pace!” Mia madre non capì se quel giovane avesse detto pace o “paccj,” che in dialetto massafrese significa “pazza.” Nel dubbio, domandò allora a sua suocera, che stava con lei: “Mamma, hai sentito quel giovane? Ha detto pace o “paccj”?</p>

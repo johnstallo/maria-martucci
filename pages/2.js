@@ -4,10 +4,10 @@ import Photo from '../components/Photo'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - My mother's conversion"
-    chapterTitle="2. My mother's conversion"
+    pageTitle="Maria Martucci - My Mother's Conversion"
+    chapterTitle="2. My Mother's Conversion"
     next="/3"
-    nextTitle="The fiery trial">
+    nextTitle="The Fiery Trial">
   
   <p>As was common in those days, my mother would often sit outside the front door of our house when she was done with her chores or when it was hot. One day, while she was sitting there, she saw a young man stop at the house next door and greet the lady who lived there by saying, “Peace!” In her dialect, the word <i>peace</i> (<i>pace</i>) sounds very similar to the word <i>crazy</i> (<i>paccj</i>). My mother wasn’t sure which word the young man had used. Confused, she turned to her mother-in-law, who was sitting beside her, and asked: “Mama, did you hear that young man? Did he say <i>peace</i> or <i>crazy</i>?”</p>
 

@@ -2,10 +2,10 @@ import ChapterLayout from '../components/ChapterLayout'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - The healing of Gino"
-    chapterTitle="5. The healing of Gino"
+    pageTitle="Maria Martucci - The Healing of Gino"
+    chapterTitle="5. The Healing of Gino"
     next="/6"
-    nextTitle="The church of Massafra">
+    nextTitle="The Church of Massafra">
 
 <p>Two years of suffering and persecution passed due to my brother’s illness. On the night of February 25th, a very cold night, my mother knelt by her bedside as she always did before going to bed. Overwhelmed with affliction and tired of the insults she faced because of Gino's illness—which even her own mother (my grandmother) attributed to her new faith in God—she prayed and told the Lord that if He did not answer her that night, she would argue with Him. She cried in prayer, pleading with God to show her grace by healing her child.</p>
 <p>After crying for a long time, she lay down, and while she was in a half-sleep, she heard a sweet and beautiful voice calling her, saying, “Maria, arise and invoke My Name, and I will grant you grace.”</p>

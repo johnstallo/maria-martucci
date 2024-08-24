@@ -2,10 +2,10 @@ import ChapterLayout from '../../components/ChapterLayout'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - La guarigione di Gino"
-    chapterTitle="5. La guarigione di Gino"
+    pageTitle="Maria Martucci - La Guarigione di Gino"
+    chapterTitle="5. La Guarigione di Gino"
     next="/it/6"
-    nextTitle="La chiesa di Massafra"
+    nextTitle="La Chiesa di Massafra"
     locale="it">
 
     <p>Passarono due anni di sofferenza e persecuzione per la malattia di mio fratello. Il 25 febbraio, in una notte molto fredda, mia madre, come era solita fare prima di coricarsi, si inginocchiò vicino al letto per pregare. Piena di afflizione e stanca di essere insultata per la malattia di Gino, che perfino sua madre (mia nonna) attribuiva alla sua nuova fede in Dio, pregò e disse al Signore che quella notte avrebbe litigato con Lui se non le avesse risposto. Pianse in preghiera e chiese a Dio di farle grazia guarendo il bambino. Dopo aver pianto per tanto tempo, si coricò e, mentre era in dormiveglia, sentì una voce dolce e bellissima che la chiamava dicendo: “Maria, alzati e invoca il mio nome, e io ti farò grazia.” Lei ubbidì e si alzò, nonostante facesse molto freddo: il suo cuore era colmo del calore dello Spirito Santo; si inginocchiò davanti alla culla del bambino e iniziò a pregare il Signore con tutto il suo cuore. Lo invocò dicendo: “Signore, Tu conosci il mio nome, sono sicura che Tu mi hai chiamata e mi hai detto di invocare il Tuo nome e che mi farai grazia… Ti prego, Signore! Opera in questa notte, fatti conoscere da quelli che non ti conoscono! Tu sei il Vero Dio, Vivente e Vero, il Re dei Re, il Dottore dei Dottori, opera come Tu vuoi, toglimi da questo calvario, Signore, ti prego. Restituiscimi mio figlio, fa’ che torni come prima, oppure prendilo con Te!”</p>

@@ -3,12 +3,12 @@ import BibleQuote from '../components/BibleQuote'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - The ulcer"
-    chapterTitle="12. The ulcer"
+    pageTitle="Maria Martucci - The Ulcer"
+    chapterTitle="12. The Ulcer"
     next="/13"
-    nextTitle="Conversion of a neighbor">
+    nextTitle="The Conversion of a Neighbor">
 
-    <p>At the age of 90 years, my mother developed a stomach ulcer and began to feel unwell. The family doctor told her that if she wanted to live she had to have surgery; otherwise she would suffer and die. My mother replied to the doctor with these words: “Doctor, I have been serving the Lord for many years and perhaps the time has come for me to go home to Him! I want to keep until my death the vow I made to God so many years ago, because the Lord says: <BibleQuote>Be faithful unto death, and I will give you the crown of life.</BibleQuote>” (See Revelation 2:10). “Doctor, I want the crown that the Lord has promised me!”</p>
-    <p>The doctor was so taken aback that he left off trying to persuade her.</p>
+    <p>At around 90 years old, my mother developed a stomach ulcer and began to feel unwell. The family doctor told her that if she wanted to live, she would need surgery; otherwise, she would suffer and eventually die. My mother responded to the doctor with these words: “Doctor, I have been serving the Lord for many years, and perhaps the time has come for me to go home to Him! I want to keep the vow I made to God so many years ago until my death, because the Lord says: <BibleQuote>‘Be faithful unto death, and I will give you the crown of life.’</BibleQuote>” (See Revelation 2:10). “Doctor, I want the crown that the Lord has promised me!”</p>
+    <p>The doctor was so taken aback that he stopped trying to convince her.</p>
   </ChapterLayout>
 )

@@ -2,10 +2,10 @@ import ChapterLayout from '../../components/ChapterLayout'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - La gallina"
-    chapterTitle="4. La gallina"
+    pageTitle="Maria Martucci - La Gallina"
+    chapterTitle="4. La Gallina"
     next="/it/5"
-    nextTitle="La guarigione di Gino"
+    nextTitle="La Guarigione di Gino"
     locale="it">
 
     <p>Nella casa in cui abitavamo c'era un cortile con un piccolo pollaio.</p>

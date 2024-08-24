@@ -27,18 +27,18 @@ const Index = () => (
       <ContentLayout>
         {/* <ChapterPreview title="Prefazione" chapterRef="it/prefazione" /> */}
         <ChapterPreview title="1. Introduzione" chapterRef="it/1" />
-        <ChapterPreview title="2. La conversione di mia madre" chapterRef="it/2" />
-        <ChapterPreview title="3. La dura prova" chapterRef="it/3" />
-        <ChapterPreview title="4. La gallina" chapterRef="it/4" />
-        <ChapterPreview title="5. La guarigione di Gino" chapterRef="it/5" />
-        <ChapterPreview title="6. La chiesa di Massafra" chapterRef="it/6" />
-        <ChapterPreview title="7. La malattia di papà" chapterRef="it/7" />
-        <ChapterPreview title="8. Il tabacco" chapterRef="it/8" />
-        <ChapterPreview title="9. La tubercolosi" chapterRef="it/9" />
-        <ChapterPreview title="10. La nefrite" chapterRef="it/10" />
-        <ChapterPreview title="11. L’incidente alla mano" chapterRef="it/11" />
-        <ChapterPreview title="12. L’ulcera" chapterRef="it/12" />
-        <ChapterPreview title="13. La conversione di una vicina" chapterRef="it/13" />
+        <ChapterPreview title="2. La Conversione di Mia Madre" chapterRef="it/2" />
+        <ChapterPreview title="3. La Dura Prova" chapterRef="it/3" />
+        <ChapterPreview title="4. La Gallina" chapterRef="it/4" />
+        <ChapterPreview title="5. La Guarigione di Gino" chapterRef="it/5" />
+        <ChapterPreview title="6. La Chiesa di Massafra" chapterRef="it/6" />
+        <ChapterPreview title="7. La Malattia di Papà" chapterRef="it/7" />
+        <ChapterPreview title="8. Il Tabacco" chapterRef="it/8" />
+        <ChapterPreview title="9. La Tubercolosi" chapterRef="it/9" />
+        <ChapterPreview title="10. La Nefrite" chapterRef="it/10" />
+        <ChapterPreview title="11. L’Incidente alla Mano" chapterRef="it/11" />
+        <ChapterPreview title="12. L’Ulcera" chapterRef="it/12" />
+        <ChapterPreview title="13. La Conversione di una Vicina" chapterRef="it/13" />
         <ChapterPreview title="14. Conclusione" chapterRef="it/14" />
       </ContentLayout>
       <Start buttonUrl="it/1" buttonText="Iniziare a leggere" /> <br/>

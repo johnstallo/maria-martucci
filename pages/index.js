@@ -28,18 +28,18 @@ const Index = () => (
       <ContentLayout>
         {/* <ChapterPreview title="Preface" chapterRef="preface" /> */}
         <ChapterPreview title="1. Introduction" chapterRef="1" />
-        <ChapterPreview title="2. My mother's conversion" chapterRef="2" />
-        <ChapterPreview title="3. The fiery trial" chapterRef="3" />
-        <ChapterPreview title="4. The hen" chapterRef="4" />
-        <ChapterPreview title="5. The healing of Gino" chapterRef="5" />
-        <ChapterPreview title="6. The church of Massafra" chapterRef="6" />
-        <ChapterPreview title="7. Papa's illness" chapterRef="7" />
-        <ChapterPreview title="8. The tobacco" chapterRef="8" />
+        <ChapterPreview title="2. My Mother's Conversion" chapterRef="2" />
+        <ChapterPreview title="3. The Fiery Trial" chapterRef="3" />
+        <ChapterPreview title="4. The Hen" chapterRef="4" />
+        <ChapterPreview title="5. The Healing of Gino" chapterRef="5" />
+        <ChapterPreview title="6. The Church of Massafra" chapterRef="6" />
+        <ChapterPreview title="7. Papa's Illness" chapterRef="7" />
+        <ChapterPreview title="8. The Tobacco" chapterRef="8" />
         <ChapterPreview title="9. Tuberculosis" chapterRef="9" />
         <ChapterPreview title="10. Nephritis" chapterRef="10" />
-        <ChapterPreview title="11. The hand injury" chapterRef="11" />
-        <ChapterPreview title="12. The ulcer" chapterRef="12" />
-        <ChapterPreview title="13. The conversion of a neighbor" chapterRef="13" />
+        <ChapterPreview title="11. The Hand Injury" chapterRef="11" />
+        <ChapterPreview title="12. The Ulcer" chapterRef="12" />
+        <ChapterPreview title="13. The Conversion of a Neighbor" chapterRef="13" />
         <ChapterPreview title="14. Conclusion" chapterRef="14" />
       </ContentLayout>
       <Start buttonUrl="/1" buttonText="Start reading" /> <br />

@@ -2,10 +2,10 @@ import ChapterLayout from '../../components/ChapterLayout'
 
 export default () => (
   <ChapterLayout
-    pageTitle="Maria Martucci - La dura prova"
-    chapterTitle="3. La dura prova"
+    pageTitle="Maria Martucci - La Dura Prova"
+    chapterTitle="3. La Dura Prova"
     next="/it/4"
-    nextTitle="La gallina"
+    nextTitle="La Gallina"
     locale="it">
 
     <p>Nel 1945, mia madre diede alla luce un altro figlio, che chiamò Luigi (Gino). Dopo alcuni mesi dalla nascita, il bambino ebbe una forte febbre e si ammalò di meningite.</p>
