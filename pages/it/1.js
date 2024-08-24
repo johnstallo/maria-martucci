@@ -9,7 +9,7 @@ export default () => (
     nextTitle="La Conversione di Mia Madre"
     locale="it">
 
-    <p>Maria Martucci nacque a Mottola, un paese in provincia di Taranto, il 16 settembre 1909, da Martucci Donato e Lattarulo Rosa Antonia. La sua era una famiglia numerosa: la madre faceva la sarta in casa, ed essendo Maria la figlia più grande, i lavori domestici e la cura dei fratelli più piccoli erano affidati a lei, che lavorava con impegno e gioia.</p>
+    <p>Maria Martucci, mia madre, nacque a Mottola, un paese in provincia di Taranto, il 16 settembre 1909, da Martucci Donato e Lattarulo Rosa Antonia. La sua era una famiglia numerosa: la madre faceva la sarta in casa, ed essendo Maria la figlia più grande, i lavori domestici e la cura dei fratelli più piccoli erano affidati a lei, che lavorava con impegno e gioia.</p>
     <p>Aveva 19 anni quando si fidanzò con mio padre, Cosimo Stallo (nato il 2 novembre 1905 a Massafra da Stallo Giovanni e Mellone Maria Annunziata), che veniva da una famiglia povera. Mia nonna paterna rimase vedova quando mio padre aveva solo 17 anni; mio nonno fu travolto da un treno mentre si recava al lavoro con il traino, e morì.</p>
     <p>Da quel momento in poi, mio padre iniziò a prendersi cura della propria casa, assumendo il ruolo e la responsabilità di un vero capofamiglia, essendo anche l’unico maschio su cinque figli (Antonia, Cosimo, Lucia, Leonarda, Pompea).</p>
     <p>Quando mia madre aveva 20 anni, precisamente il 10 novembre 1929, i miei genitori si sposarono e si stabilirono a Mottola.</p>
