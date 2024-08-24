@@ -11,8 +11,9 @@ npm install -g now
 
 ## Develop
 ```bash
-cd maria-martucci
 npm install
+# Force Node.js to use the legacy OpenSSL provider
+export NODE_OPTIONS=--openssl-legacy-provider
 npm run dev
 ```
 
