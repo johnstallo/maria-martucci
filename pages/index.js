@@ -42,7 +42,7 @@ const Index = () => (
         <ChapterPreview title="13. The conversion of a neighbor" chapterRef="13" />
         <ChapterPreview title="14. Conclusion" chapterRef="14" />
       </ContentLayout>
-      <Start buttonUrl="/preface" buttonText="Start reading" /> <br />
+      <Start buttonUrl="/1" buttonText="Start reading" /> <br />
       {/* <EndSpace /> */}
     </Layout>
     <style jsx>{`
