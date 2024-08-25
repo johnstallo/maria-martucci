@@ -6,8 +6,8 @@ export default () => (
   <ChapterLayout
     pageTitle="Maria Martucci - Conclusion"
     chapterTitle="14. Conclusion"
-    next="/"
-    nextTitle="">
+    next="/15"
+    nextTitle="Author's Note">
 
     <p>Throughout her life, my mother's experiences with the Lord became known in many areas of Italy and even abroad, reaching as far as Australia, where my brother Antonio had gone as a missionary in the 1970s.</p>
     <p>The miracles she received and her faithfulness to the vow she made to the Lord were shared everywhere. She was always a blessing wherever she went, and she was often asked to testify about the great works that God had accomplished in her life and in her family. She was over ninety years old when she went to Australia for the last time. With heartfelt joy, she seized every opportunity to give all the glory to God, always emphasizing the Lord's love and goodness toward her and all humanity.</p>

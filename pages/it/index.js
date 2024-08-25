@@ -22,7 +22,7 @@ const Index = () => (
     </Head>
 
 
-    <Hero subtitle="Una storia di amore e fiducia in Dio" author="- Maria Annunziata Stallo" />
+    <Hero subtitle="Una storia di amore e fiducia in Dio" author="di Maria Annunziata Stallo" />
     <Layout>
       <ContentLayout>
         {/* <ChapterPreview title="Prefazione" chapterRef="it/prefazione" /> */}
@@ -40,6 +40,7 @@ const Index = () => (
         <ChapterPreview title="12. L’Ulcera" chapterRef="it/12" />
         <ChapterPreview title="13. La Conversione di una Vicina" chapterRef="it/13" />
         <ChapterPreview title="14. Conclusione" chapterRef="it/14" />
+        <ChapterPreview title="15. Nota dell'Autrice" chapterRef="it/15" />
       </ContentLayout>
       <Start buttonUrl="it/1" buttonText="Iniziare a leggere" /> <br/>
       {/* <EndSpace /> */}

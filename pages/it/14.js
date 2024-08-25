@@ -6,8 +6,8 @@ export default () => (
   <ChapterLayout
     pageTitle="Maria Martucci - Conclusione"
     chapterTitle="14. Conclusione"
-    next="/it"
-    nextTitle=""
+    next="/it/15"
+    nextTitle="Nota dell'Autrice"
     locale="it">
 
     <p>Durante tutta la sua vita, le esperienze che mamma aveva fatto con il Signore si erano diffuse in molte zone d’Italia e all’estero… persino in Australia, dove mio fratello Antonio si era trasferito come missionario sin dagli anni settanta.</p>
