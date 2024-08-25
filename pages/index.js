@@ -26,7 +26,6 @@ const Index = () => (
 
     <Layout>
       <ContentLayout>
-        {/* <ChapterPreview title="Preface" chapterRef="preface" /> */}
         <ChapterPreview title="1. Introduction" chapterRef="1" />
         <ChapterPreview title="2. My Mother's Conversion" chapterRef="2" />
         <ChapterPreview title="3. The Fiery Trial" chapterRef="3" />

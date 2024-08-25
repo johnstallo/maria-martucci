@@ -12,7 +12,7 @@ const Hero = (props) => (
   <div className="container-fluid">
     <h1>Maria Martucci</h1>
     <h4>{props.subtitle}<br />{props.author}</h4>
-    <p style={languageSelector}><a style={languageSelectorLink} href="/">English</a> | <a style={languageSelectorLink} href="/it">Italiano</a></p>
+    <p style={languageSelector}><a style={languageSelectorLink} href="/">English</a> | <a style={languageSelectorLink} href="/it">Italiano</a> | <a style={languageSelectorLink} href="/es">Español</a></p>
     <style jsx>{`
       div {
         text-align: right;

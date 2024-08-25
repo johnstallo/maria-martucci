@@ -1,0 +1,19 @@
+import ChapterLayout from '../../components/ChapterLayout'
+
+export default () => (
+  <ChapterLayout
+    pageTitle="Maria Martucci - La Curación de Gino"
+    chapterTitle="5. La Curación de Gino"
+    next="/es/6"
+    nextTitle="La Iglesia de Massafra"
+    locale="es">
+
+    <p>Pasaron dos años de sufrimiento y persecución por la enfermedad de mi hermano. El 25 de febrero, en una noche muy fría, mi madre, como solía hacer antes de acostarse, se arrodilló junto a la cama para orar. Llena de aflicción y cansada de ser insultada por la enfermedad de Gino, que incluso su madre (mi abuela) atribuía a su nueva fe en Dios, oró y le dijo al Señor que esa noche pelearía con Él si no le respondía. Lloró en oración y pidió a Dios que le concediera la gracia de curar al niño. Después de llorar durante mucho tiempo, se acostó y, mientras estaba en un estado de semisueño, escuchó una voz dulce y hermosa que la llamaba diciendo: “María, levántate e invoca mi nombre, y yo te concederé la gracia.” Ella obedeció y se levantó, a pesar de que hacía mucho frío: su corazón estaba lleno del calor del Espíritu Santo; se arrodilló ante la cuna del niño y comenzó a orar al Señor con todo su corazón. Lo invocó diciendo: “Señor, Tú conoces mi nombre, estoy segura de que Tú me has llamado y me has dicho que invoque Tu nombre y que me concederás la gracia... ¡Te lo ruego, Señor! Opera esta noche, date a conocer a los que no te conocen. ¡Tú eres el Dios Verdadero, Vivo y Verdadero, el Rey de Reyes, el Doctor de Doctores, obra como Tú quieras, sácame de este calvario, Señor, te lo ruego. Devuélveme a mi hijo, haz que vuelva a ser como antes, ¡o llévatelo contigo!”</p>
+    <p>Mientras oraba y lloraba, mi padre le dijo: “¡Pero quieres dejar de hacerlo! ¿Todavía no te has cansado de rezarle al diablo?”</p>
+    <p>Ella, sin embargo, en lugar de detenerse, imploró el nombre tres veces Santo del Señor con más fuerza; y mientras oraba, escuchó un ruido proveniente de la cuna del niño: era un ruido similar al de un trozo de madera que se rompe, seguido inmediatamente por un fuerte grito de dolor del niño. Mi madre, con los ojos aún cerrados en oración, daba gracias al Señor. Estaba segura y convencida de que Dios había obrado. Se levantó y se asomó a la cuna, donde vio al niño perfectamente sano, como estaba antes de la enfermedad. Con gran alegría lo tomó, fue donde mi padre y le dijo: “¡Mira qué gran milagro ha hecho el Señor esta noche!” Mi padre quedó tan asombrado que durante más de una hora no pudo hablar. ¡Gloria al nombre de nuestro gran Dios!</p>
+    <p>Luego, mi madre envolvió al niño en una manta y salió afuera; comenzó a golpear las puertas de todo el vecindario, gritando: “¡Abran! ¡Vean qué gran milagro ha hecho el Señor!” La gente, antes de abrir, decía: “Pobre María: desde que su hijo se enfermó, ¡se ha vuelto completamente loca!”</p>
+    <p>Sin embargo, llevados por la curiosidad, los vecinos abrían la puerta y se daban cuenta de que, de verdad, ese Jesús a quien tantas veces habían ridiculizado había obrado un gran milagro esa noche. ¡Gloria a Dios, porque Él es el Dios Vivo y Verdadero!</p>
+    <p>Esa noche, mi madre hizo un voto al Señor, diciendo: “De ahora en adelante, cualquier enfermedad que golpee mi cuerpo, Tú serás mi Doctor y mi medicina.”</p>
+    <p>Aquel día, no solo Dios curó al niño, sino que también salvó de la enfermedad del pecado a mi padre y a casi toda la familia materna y paterna. El Señor también salvó a muchas personas del vecindario, y por Su gracia, la conversión de las almas no se detuvo allí, sino que continuó durante mucho tiempo. Así como el Señor obraba a través de los apóstoles cuanto más eran perseguidos (Hechos 19:20), también mi madre se fortalecía en la fe cuanto más era ofendida y ultrajada. Toda la gloria por esto va a Dios, que en esas circunstancias tan adversas salvaba y bautizaba las almas con el Espíritu Santo.</p>
+  </ChapterLayout>
+)
