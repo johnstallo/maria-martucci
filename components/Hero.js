@@ -2,17 +2,24 @@ const languageSelector = {
   marginTop: 30,
   marginBottom: 0,
   fontFamily: 'Merriweather Sans, sans-serif',
+  fontWeight: 50,
 }
 
 const languageSelectorLink = {
-  color: 'black'
+  color: 'black',
+  fontWeight: 800
 }
 
 const Hero = (props) => (
   <div className="container-fluid">
     <h1>Maria Martucci</h1>
     <h4>{props.subtitle}<br />{props.author}</h4>
-    <p style={languageSelector}><a style={languageSelectorLink} href="/">English</a> | <a style={languageSelectorLink} href="/it">Italiano</a> | <a style={languageSelectorLink} href="/es">Español</a></p>
+    <p style={languageSelector}>
+      <a style={languageSelectorLink} href="/">English</a> |  
+      <a style={languageSelectorLink} href="/it">Italiano</a> | 
+      <a style={languageSelectorLink} href="/es">Español</a> | 
+      <a style={languageSelectorLink} href="/zh">中文</a>
+    </p>
     <style jsx>{`
       div {
         text-align: right;
