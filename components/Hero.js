@@ -15,10 +15,7 @@ const Hero = (props) => (
     <h1>Maria Martucci</h1>
     <h4>{props.subtitle}<br />{props.author}</h4>
     <p style={languageSelector}>
-      <a style={languageSelectorLink} href="/">English</a> |  
-      <a style={languageSelectorLink} href="/it">Italiano</a> | 
-      <a style={languageSelectorLink} href="/es">Español</a> | 
-      <a style={languageSelectorLink} href="/zh">中文</a>
+      <a style={languageSelectorLink} href="/">English</a> | <a style={languageSelectorLink} href="/it">Italiano</a> | <a style={languageSelectorLink} href="/es">Español</a> | <a style={languageSelectorLink} href="/fr">Français</a> | <a style={languageSelectorLink} href="/zh">中文</a>
     </p>
     <style jsx>{`
       div {
