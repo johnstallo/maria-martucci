@@ -37,7 +37,7 @@ export default () => (
 
   <p>During prayer, my mother began to speak in tongues again, and there was a great manifestation of the Spirit of God. The brother then explained the passage about Pentecost and how the promise was not only for the disciples but for <BibleQuote>everyone whom the Lord our God calls to himself</BibleQuote> (as it is written in Acts 2). He then added: “Sister Maria has been baptized in the Holy Spirit!”</p>
 
-  <p>During that time, my mother also learned about water baptism, which is in obedience to Jesus’ command to <BibleQuote>Go therefore and make disciples of all nations, baptizing them in[a] the name of the Father and of the Son and of the Holy Spirit</BibleQuote> (Matthew 28:19). My mother said, “I want to be baptized according to His command!” And so, Sister Angela Maria’s bathtub was used as a baptistery, and as it is written that there is <BibleQuote>joy in heaven over one sinner who repents</BibleQuote> (Luke 15:7), there was also great joy on earth. Glory to God!</p>
+  <p>During that time, my mother also learned about water baptism, which is in obedience to Jesus’ command to <BibleQuote>Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit</BibleQuote> (Matthew 28:19). My mother said, “I want to be baptized according to His command!” And so, Sister Angela Maria’s bathtub was used as a baptistery, and as it is written that there is <BibleQuote>joy in heaven over one sinner who repents</BibleQuote> (Luke 15:7), there was also great joy on earth. Glory to God!</p>
 
   <p>In 1940, a daughter was born—Maria Annunziata (that is, me, <i>Titina</i>, as they always called me).</p>
 
